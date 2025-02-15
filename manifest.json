@@ -1,0 +1,64 @@
+{
+    "name": "Jokenpo",
+    "short_name": "Jokenpo",
+    "description": "Aplicativo para jogar jokenpo contra a maquina",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "dir": "ltr",
+    "lang": "pt-BR",
+    "background_color": "#ffffff",
+    "theme_color": "#faa300",
+    "icons": [
+        {
+            "src": "./img/logo48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "./img/screenshot1.png",
+            "sizes": "367x652",
+            "type": "image/png",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "./img/screenshot2.png",
+            "sizes": "942x667",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ]
+}
