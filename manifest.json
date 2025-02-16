@@ -2,7 +2,7 @@
     "name": "Jokenpo",
     "short_name": "Jokenpo",
     "description": "Aplicativo para jogar jokenpo contra a maquina",
-    "start_url": "/",
+    "start_url": "/jokenpo/",
     "scope": "/",
     "display": "standalone",
     "orientation": "portrait-primary",
