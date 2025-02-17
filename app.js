@@ -1,6 +1,6 @@
 /**
  * Jokenpo
- * @author Elen Grecco
+ * @author Denis DAngelo
  */
 
 //===========================================
